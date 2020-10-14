@@ -7,5 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
 [Project Presentation](https://github.com/mplancarte/liftoff-assignments/blob/master/water-me-presentation.pdf)
